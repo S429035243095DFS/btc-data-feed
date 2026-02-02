@@ -1,4 +1,4 @@
-# BTC Data Feed - Updated: 2026-02-01 23:43:42 UTC
+# BTC Data Feed - Updated: 2026-02-02 00:00:05 UTC
 current_price = 60000.0
 current_ema20 = 60000.000
 current_macd = 0.000
