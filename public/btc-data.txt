@@ -1,29 +1,29 @@
-# BTC Data Feed - Updated: 2026-09-26 07:29:30 UTC
-current_price = 60000.0
-current_ema20 = 60000.000
-current_macd = 0.000
-current_rsi (7 period) = 0.000
+# BTC Data Feed - Updated: 2026-09-26 12:23:51 UTC
+current_price = 84124.01
+current_ema20 = 84152.493
+current_macd = -2.955
+current_rsi (7 period) = 19.202
 
 In addition, here is the latest BTC open interest and funding rate for perps (the instrument you are trading):
 Open Interest: Latest: 29000.00 Average: 28971.00
 Funding Rate: 0.00001000
 
 Intraday series (by minute, oldest → latest):
-Mid prices: [60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0]
-EMA indicators (20‑period): [60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0, 60000.0]
-MACD indicators: [0.0]
-RSI indicators (7‑Period): [0.0, 0.0, 0.0]
+Mid prices: [84150.0, 84172.01, 84184.99, 84204.0, 84192.49, 84170.01, 84150.0, 84125.13, 84124.01, 84124.01]
+EMA indicators (20‑period): [84150.0, 84152.096, 84155.229, 84159.874, 84162.98, 84163.65, 84162.35, 84158.805, 84155.491, 84152.493]
+MACD indicators: [-2.955]
+RSI indicators (7‑Period): [40.641, 28.568, 19.202]
 RSI indicators (14‑Period): [60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0]
 
 Longer‑term context (4‑hour timeframe):
-20‑Period EMA: 60000.000 vs. 50‑Period EMA: 59000.000
+20‑Period EMA: 84205.044 vs. 50‑Period EMA: 83235.671
 3‑Period ATR: 0.000 vs. 14‑Period ATR: 0.000
-Current Volume: 1.000 vs. Average Volume: 1.000
+Current Volume: 2.271 vs. Average Volume: 6.093
 MACD indicators: [100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0, 100.0]
 RSI indicators (14‑Period): [60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0, 60.0]
 
 # HIGH-IMPACT ADDITIONS:
-Order Book Imbalance (top 5 levels): bid_vol = 10.0, ask_vol = 10.0 → imbalance = 0.000
-1H Aggressive Buy Volume: 0.5 BTC (50.0% of total)
+Order Book Imbalance (top 5 levels): bid_vol = 1.9, ask_vol = 2.8 → imbalance = -0.199
+1H Aggressive Buy Volume: 2.0 BTC (89.3% of total)
 Major Liquidation Zones: Longs = [0, 0], Shorts = [0, 0]
 Volatility Regime: "low" (1H ATR = 0.0)
